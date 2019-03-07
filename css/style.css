@@ -782,3 +782,7 @@ h1, h2, h3, h4, h5,
   img.ignite {
    width: 50%;
 }
+@media only screen and (max-width:600px) {
+  img.ignite {
+    width: 20%;
+}
